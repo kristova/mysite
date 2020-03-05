@@ -5,11 +5,11 @@
 # Site
 title: progter club
 subtitle: ''
-description: ''
+description: 'My first site on Hexo'
 keywords:
 author: John Doe
 language: en
-timezone: ''
+timezone: 'Europe/Kiev'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
