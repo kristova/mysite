@@ -2,6 +2,10 @@
 
 ## H2
 
+- [About](/about)
+- [Basic](/basic)
+- [Contacts](/contacts)
+- [Services](/services)
 - [Index](/index.md)
 - [Hello World](hello-world.md)
 
@@ -12,8 +16,6 @@
 
 - find nearest header
 - this unordered list will find H3
-
-# H1 is separator
 
 #### H4
 
